@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+beautifulsoup4
+python-dotenv
+requests
+tavily-python
+faiss-cpu              
+langchain-community
